@@ -58,7 +58,7 @@ After deploying the application, I found that using separate IPs for each instan
 ### 5. Deploying a Multi-Container Application
 The second application included multiple containers interacting with a MongoDB database such as the MongoDB itself and a Web Api. I set different environment variables in the task definition to facilitate the interaction between the containers and the database. Security was not a concern as I planned to clean up all configurations post-deployment.
 
-<img src="https://i.imgur.com/RShEnHA.png" height="80%" width="80%" alt="Code commit permissions"/>
+<img src="https://i.imgur.com/9LN65FR.png" height="80%" width="80%" alt="Code commit permissions"/>
 <br />
 <img src="https://i.imgur.com/3aXDKbQ.png" height="80%" width="80%" alt="Code commit permissions"/>
 <br />
